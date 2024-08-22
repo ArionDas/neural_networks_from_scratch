@@ -1,5 +1,5 @@
 ipykernel
-numpy==1.14.6
+numpy
 nnfs
 matplotlib
 torch
